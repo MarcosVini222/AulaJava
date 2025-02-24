@@ -5,6 +5,7 @@ plugins {
 }
 
 group = 'br.com.fiap'
+
 version = '0.0.1-SNAPSHOT'
 
 java {
